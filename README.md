@@ -1,6 +1,6 @@
 # Git
 - [전체 설명 (Claude)](./git/Claude-Instruction.md)
-- [새로운 환경에서 Clone(작성 예정)]()
+- [새로운 환경에서 clone 받을때](./git/clone-at-new-environment.md)
 - [새로운 svc 구성시(작성 예정)]()
 
 <br/>
