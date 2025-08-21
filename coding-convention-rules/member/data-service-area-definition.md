@@ -1,4 +1,6 @@
 # 데이터 영역, 서비스 영역에 대한 경계 정의
+- booksfeed-member-svc 를 예로 들어 정리합니다.
+
 데이터 영역에 대한 정의
 - MemberRepository, FollowRepository 는 쿼리를 수행하는 역할만을 담당하며, 비지니스로직까지는 담당하지 않음
 - 데이터를 조회하는 단위기능 역할만을 수행
