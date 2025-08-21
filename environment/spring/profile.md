@@ -10,14 +10,14 @@
 - mysql password : `test1357`
 
 
-## dev
+## Profile = dev
 ### Database
 - aws rds
 ### kubernetes
 - EKS
 - telepresence
 
-## prod
+## Profile = prod
 - 미운영
 
 # TEST
